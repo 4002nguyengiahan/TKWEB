@@ -1,14 +1,14 @@
 
 body{
-    color: #1b1818;
-    font-size: 18px  ;
+    color: #f5f0f0;
+    font-size: 17px  ;
  
  }
 
  .container{
-     background-color: rgb(224, 179, 196);
-     margin-top: -19px;
-     margin-bottom: -19px;
+     background-color: rgb(89, 144, 148);
+     margin-top: 25px;
+     margin-bottom: 25px;
  
  }
 
@@ -44,7 +44,7 @@ body{
 
 
  header #branding h1{
-     background-color: rgb(95, 197, 245);
+     background-color:  rgb(14, 68, 26);
  
  }
 
@@ -54,7 +54,7 @@ body{
  }
 
  header .highlight, header .current a{
-     background-color: rgb(174, 134, 226);
+     background-color: rgb(26, 177, 34);
      
  }
 
@@ -64,8 +64,7 @@ body{
  }
 
  footer{
-     background-color: rgb(47, 212, 144);
-     margin-bottom: -24px;
+     background-color:  rgb(17, 71, 49);
  
  }
 </style>
